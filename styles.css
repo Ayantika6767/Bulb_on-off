@@ -1,0 +1,19 @@
+#image{
+ padding: 50px;
+ margin: 50px;
+ padding-left: 500px;
+}
+#btn
+{
+    padding: 10px;
+    border-radius: 20px;
+    background-color: blueviolet;
+    color: aliceblue;
+    border: none;
+    margin-left: 650px;
+    box-shadow: blue;
+    cursor: pointer;
+    
+    
+    
+}
